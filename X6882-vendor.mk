@@ -534,7 +534,6 @@ PRODUCT_PACKAGES += \
     libipsec_ims_shr \
     libladder \
     libtneclient \
-    libtranlog \
     libvcodec_oal \
     libvcodecdrv_header_stub \
     libverno \
@@ -1148,7 +1147,6 @@ PRODUCT_PACKAGES += \
     libkmsetkey \
     libksensor \
     libminiui \
-    libminizip \
     libmipc \
     libmmagent \
     libmml \
