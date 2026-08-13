@@ -1144,6 +1144,7 @@ PRODUCT_PACKAGES += \
     libimsg_log \
     libjpeg-alpha-oal_vendor \
     libjpeg-alpha_vendor \
+    libkaraoke \
     libkmsetkey \
     libksensor \
     libminiui \
@@ -1197,6 +1198,7 @@ PRODUCT_PACKAGES += \
     libnvram_sec \
     libnxp_extamp_intf \
     liboemcrypto \
+    libpixelflinger \
     libpn557_fw \
     libpower_timer \
     libpqframework \
